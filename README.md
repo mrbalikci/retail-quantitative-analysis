@@ -28,7 +28,7 @@ P.S. determine which sectors we would like to look over
 - Geo Location: Erdem
 - Mall Data: Erdem
 
-# How to get data
+# How to get data 
 - Flat files: CSV, xlsm, etc 
 - Free data online
 - API calls
